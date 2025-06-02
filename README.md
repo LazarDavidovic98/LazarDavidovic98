@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Lazar Davidović
 
-<!--
+
 **LazarDavidovic98/LazarDavidovic98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me on **LinkedIn**: [lazar-davidovic-831887233](https://www.linkedin.com/in/lazar-davidovic-831887233) ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
