@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/github.png" alt="Profile picture" width="800" height="300"/>
+</p>
 <h1 align="center"><strong>Hi 👋, I'm Lazar Davidovic</strong></h1>
 <h2 align="center"><strong>Passionate about C++ and Python Software Engineering, AI, ML and Mathematics</strong></h2>
 
