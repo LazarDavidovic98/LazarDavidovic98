@@ -1,6 +1,6 @@
-## Hi 👋, I'm Lazar Davidovic
+<h1 align="center"><strong>Hi 👋, I'm Lazar Davidovic</strong></h1>
+<h2 align="center"><strong>Passionate about C++ and Python Software Engineering, AI, ML and Mathematics</strong></h2>
 
-### Passionate about C++ and Python Software Engineering, AI, ML and Mathematics
 
 - I’m currently pursuing my Master’s degree in Software Engineering at the University of Belgrade
 - I’m currently working as a Software Engineer at FIS Global
