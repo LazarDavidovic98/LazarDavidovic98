@@ -24,8 +24,8 @@
 
 ### Fun facts about me
 
-- 🎨 I enjoy photorealistic drawing and painting.  [Gallery](assets/gallery/README.md)
-
+- 🎨 I enjoy photorealistic drawing and painting.  [Gallery](GALLERY.md)
 - ♟️ I play chess and tennis
 - 🍳 Cooking and mathematics teaching are my weekend relax zones
+
 
