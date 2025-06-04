@@ -24,7 +24,7 @@
 
 ### Fun facts about me
 
-- 🎨 I enjoy photorealistic drawing and painting. [Gallery](https://github.com/LazarDavidovic98/LazarDavidovic98/tree/main/assets/gallery)
+- 🎨 I enjoy photorealistic drawing and painting.  [Gallery](assets/gallery/README.md)
 
 - ♟️ I play chess and tennis
 - 🍳 Cooking and mathematics teaching are my weekend relax zones
