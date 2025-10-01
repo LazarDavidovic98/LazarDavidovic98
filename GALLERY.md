@@ -21,7 +21,6 @@
   <img src="./assets/gallery/15.png" width="320" height="400" style="border: 2px solid white;"/>
 </p>
 <p align="center">
-  <img src="./assets/gallery/14.png" width="320" height="410" style="border: 2px solid white;"/>
- 
+  <img src="./assets/gallery/09.png" width="320" height="410" style="border: 2px solid white;"/>
   <img src="./assets/gallery/10.png" width="320" height="410" style="border: 2px solid white;"/>
 </p>
